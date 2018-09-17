@@ -1,3 +1,4 @@
+#currently being hosted on http://test-recipe-book-deployment.s3-website-us-east-1.amazonaws.com/
 # Project2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
